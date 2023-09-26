@@ -1,0 +1,3 @@
+mkdir myfolder
+is -a
+mkdir myfolder
